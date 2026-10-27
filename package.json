@@ -1,0 +1,18 @@
+{
+    "name": "com.dories.objectpool",
+    "displayName": "Dories ObjectPool",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "description": "对象池：纯 C# 对象复用 UnityEngine.Pool，GameObject 预制体池按 key 管理，支持预热、空闲释放、防重复回收与场景切换清理，可接入 Dories YooAssetSystem。",
+    "author": {
+        "name": "Dories"
+    },
+    "keywords": [
+        "pool",
+        "objectpool"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "com.dories.logging": "1.0.0"
+    }
+}
